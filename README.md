@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about coding and proficient in data
 
 - 🎓 **BS Information Technology**
   - New Era University
-  - *2021-Present*
+  - *2022-Present*
 
 ## Certifications
 
